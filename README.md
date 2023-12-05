@@ -1,4 +1,4 @@
-# Video Upscaling with GFPGAN
+# Video Super Resolution with GFPGAN
 
 This project utilizes the GFPGAN model to upscale videos, enhancing their visual quality. The process involves providing a video input, upscaling the video frame by frame using GFPGAN, and allowing users to download the enhanced videos.
 
@@ -31,8 +31,6 @@ particularly by increasing its resolution and eliminating unwanted noise.
    - The `comparison` folder contains two sample images: one before GFPGAN upscaling and the other after.
    - View and compare these images to observe the enhancement achieved by GFPGAN.
 
-### Comparision of enhenced videos:
+### Comparision of enhanced videos:
 
-1. ![image](comparision\sample_output_1.png)
-
-2. ![image](comparision\sample_output_2.png)
+![sample_output_2](https://github.com/Msparihar/Video-Super-Resolution-using-GFPGAN/assets/75237981/3d097a1b-b535-49ad-b59f-04e73348f219)
