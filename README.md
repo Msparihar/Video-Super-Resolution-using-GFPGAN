@@ -2,13 +2,9 @@
 
 This project utilizes the GFPGAN model to upscale videos, enhancing their visual quality. The process involves providing a video input, upscaling the video frame by frame using GFPGAN, and allowing users to download the enhanced videos.
 
-## Task
+### Comparision of enhanced videos:
 
-The primary goal of this assignment is to showcase your proficiency in developing an
-advanced AI model capable of enhancing the quality of a video by upscaling its
-resolution and reducing noise. Your task entails harnessing the capabilities of any
-suitable and available model to achieve significant improvements in video quality,
-particularly by increasing its resolution and eliminating unwanted noise.
+![sample_output_2](https://github.com/Msparihar/Video-Super-Resolution-using-GFPGAN/assets/75237981/3d097a1b-b535-49ad-b59f-04e73348f219)
 
 ## Steps to Use the Colab Notebook
 
@@ -31,6 +27,4 @@ particularly by increasing its resolution and eliminating unwanted noise.
    - The `comparison` folder contains two sample images: one before GFPGAN upscaling and the other after.
    - View and compare these images to observe the enhancement achieved by GFPGAN.
 
-### Comparision of enhanced videos:
 
-![sample_output_2](https://github.com/Msparihar/Video-Super-Resolution-using-GFPGAN/assets/75237981/3d097a1b-b535-49ad-b59f-04e73348f219)
